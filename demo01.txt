@@ -1,3 +1,4 @@
 user1 write line1
 user1 write line2
 user1 write line3
+user1 write line4
